@@ -1,0 +1,19 @@
+.beachimg {
+    width:75%;
+}
+.imgwrapper {
+    height:1200px;
+    text-align:center;
+    height: 1200px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.scrolled {
+    transform:rotate(10deg);
+}
+.spacer {
+    height:300px;
+}
